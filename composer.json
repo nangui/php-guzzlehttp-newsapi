@@ -1,0 +1,12 @@
+{
+    "name": "user/apiconsume",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Adonaï Elohim Exaucé",
+            "email": "adonainangui03@gmail.com"
+        }
+    ]
+}
